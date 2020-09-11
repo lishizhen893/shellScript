@@ -1,5 +1,4 @@
 #!/bin/bash
-# auth:kaliarch
 # version:v1.0
 # func:tomcat 6.0/7.0/8.5/9.0 安装
 
