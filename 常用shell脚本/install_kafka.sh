@@ -1,5 +1,4 @@
 #!/bin/bash
-# auth:kaliarch
 # version:v1.0
 # func:kafka  0.10.2/0.11.0/1.1.0/2.0.0 安装
 
