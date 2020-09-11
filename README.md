@@ -1,1 +1,13 @@
-# shellScript
+### 常用shell脚本
+>Autoinstall_ELK_V1.3.sh 安装elk脚本
+>install_elasticsearch.sh 安装elaseticsearch脚本
+>install_kibana.sh  安装kibana脚本
+>install_logstash.sh  安装logstash脚本
+>install_zookeeper.sh 安装zookeeper脚本
+>install_kafka.sh 安装kafka
+>install_git.sh 安装git脚本
+>install_maven.sh 安装maven
+>install_nginx.sh 安装nginx
+>install_tomcat.sh  安装tomcat
+>install_grafana.sh 安装grafana
+>reboot_springboot_project.sh 重启项目
