@@ -1,5 +1,4 @@
 #!/bin/bash
-# auth:kaliarch
 # version:v1.0
 # func:maven 3.0.5/3.3.9/3.5.4 安装
 
