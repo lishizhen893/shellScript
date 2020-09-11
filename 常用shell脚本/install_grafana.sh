@@ -1,5 +1,5 @@
 #!/bin/bash
-# auth:kaliarch
+# aut:kaliarch
 # version:v1.0
 # func:grafana 5.1.0/5.1.5/5.2.2 安装
 
