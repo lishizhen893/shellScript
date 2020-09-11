@@ -1,5 +1,4 @@
 #!/bin/bash
-# auth:kaliarch
 # version:v1.0
 # func:git 2.0.0/2.10.0/2.18.0 安装
 
