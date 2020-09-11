@@ -1,5 +1,4 @@
 #!/bin/bash
-# auth:kaliarch
 # version:v1.0
 # func:zookeeper 3.4/3.5 安装
 
